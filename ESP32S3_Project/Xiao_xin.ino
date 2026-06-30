@@ -38,8 +38,8 @@
 
 
 /* ---------------- WiFi CONFIG ---------------- */
-const char* WIFI_SSID = "TP-LINK_380C";
-const char* WIFI_PASS = "LJF13939915783";
+const char* WIFI_SSID = "your_WIFI_SSID";
+const char* WIFI_PASS = "your_WIFI_PASS";
 
 
 /* --------------- WebSocket SERVER ------------ */
